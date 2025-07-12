@@ -1,6 +1,6 @@
-# My First and Simple Git Repository 
+# Carl's testing repository
 
-This is my first attempt to create a Git repository on GitHub. 
+This is my GitHub repository for testing things out.
 
 The goal here is to learn how to create and maintain a repository. 
 
@@ -8,6 +8,7 @@ I am interested in (among other things):
 - Creating a branch
 - Working on the branch and committing my changes.
 - Merging the branch to main.
+- Creating notebooks which can be run by anyone in Google Colab
 
 ## Colab Testing:
 
