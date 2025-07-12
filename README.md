@@ -15,4 +15,5 @@ I am interested in (among other things):
 | Title | Interactive Link | 
 |---|---|
 | **Open The Test Notebook in Colab** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlMalings/hello_world/blob/main/test_notebook.ipynb) |
+| **ARSET Exercise: Surface AQ Estimation with TEMPO** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlMalings/hello_world/blob/main/ARSET_Testing/Draft_exercise_surface_level_AQ.ipynb) |
 
